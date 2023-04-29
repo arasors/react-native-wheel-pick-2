@@ -1,0 +1,182 @@
+[
+    {
+        "merged": "com.tron.react-native-wheel-pick-merged_res-21:/layout/redbox_item_title.xml",
+        "source": "com.tron.react-native-wheel-pick-jetified-react-android-0.71.7-release-0:/layout/redbox_item_title.xml"
+    },
+    {
+        "merged": "com.tron.react-native-wheel-pick-merged_res-21:/layout/abc_action_mode_close_item_material.xml",
+        "source": "com.tron.react-native-wheel-pick-appcompat-1.4.1-5:/layout/abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "com.tron.react-native-wheel-pick-merged_res-21:/layout/support_simple_spinner_dropdown_item.xml",
+        "source": "com.tron.react-native-wheel-pick-appcompat-1.4.1-5:/layout/support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "com.tron.react-native-wheel-pick-merged_res-21:/layout/notification_template_part_chronometer.xml",
+        "source": "com.tron.react-native-wheel-pick-core-1.7.0-14:/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "com.tron.react-native-wheel-pick-merged_res-21:/layout/abc_expanded_menu_layout.xml",
+        "source": "com.tron.react-native-wheel-pick-appcompat-1.4.1-5:/layout/abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "com.tron.react-native-wheel-pick-merged_res-21:/layout/view_wheel_date_picker.xml",
+        "source": "com.tron.react-native-wheel-pick-jetified-WheelPicker-5913fa15fc-12:/layout/view_wheel_date_picker.xml"
+    },
+    {
+        "merged": "com.tron.react-native-wheel-pick-merged_res-21:/layout/abc_action_menu_item_layout.xml",
+        "source": "com.tron.react-native-wheel-pick-appcompat-1.4.1-5:/layout/abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "com.tron.react-native-wheel-pick-merged_res-21:/layout/select_dialog_multichoice_material.xml",
+        "source": "com.tron.react-native-wheel-pick-appcompat-1.4.1-5:/layout/select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "com.tron.react-native-wheel-pick-merged_res-21:/layout/abc_tooltip.xml",
+        "source": "com.tron.react-native-wheel-pick-appcompat-1.4.1-5:/layout/abc_tooltip.xml"
+    },
+    {
+        "merged": "com.tron.react-native-wheel-pick-merged_res-21:/layout/abc_alert_dialog_material.xml",
+        "source": "com.tron.react-native-wheel-pick-appcompat-1.4.1-5:/layout/abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "com.tron.react-native-wheel-pick-merged_res-21:/layout/abc_dialog_title_material.xml",
+        "source": "com.tron.react-native-wheel-pick-appcompat-1.4.1-5:/layout/abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "com.tron.react-native-wheel-pick-merged_res-21:/layout/notification_template_icon_group.xml",
+        "source": "com.tron.react-native-wheel-pick-core-1.7.0-14:/layout/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "com.tron.react-native-wheel-pick-merged_res-21:/layout/abc_alert_dialog_button_bar_material.xml",
+        "source": "com.tron.react-native-wheel-pick-appcompat-1.4.1-5:/layout/abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "com.tron.react-native-wheel-pick-merged_res-21:/layout/abc_select_dialog_material.xml",
+        "source": "com.tron.react-native-wheel-pick-appcompat-1.4.1-5:/layout/abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "com.tron.react-native-wheel-pick-merged_res-21:/layout/abc_search_dropdown_item_icons_2line.xml",
+        "source": "com.tron.react-native-wheel-pick-appcompat-1.4.1-5:/layout/abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "com.tron.react-native-wheel-pick-merged_res-21:/layout/abc_list_menu_item_layout.xml",
+        "source": "com.tron.react-native-wheel-pick-appcompat-1.4.1-5:/layout/abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "com.tron.react-native-wheel-pick-merged_res-21:/layout/notification_action_tombstone.xml",
+        "source": "com.tron.react-native-wheel-pick-core-1.7.0-14:/layout/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "com.tron.react-native-wheel-pick-merged_res-21:/layout/redbox_view.xml",
+        "source": "com.tron.react-native-wheel-pick-jetified-react-android-0.71.7-release-0:/layout/redbox_view.xml"
+    },
+    {
+        "merged": "com.tron.react-native-wheel-pick-merged_res-21:/layout/select_dialog_singlechoice_material.xml",
+        "source": "com.tron.react-native-wheel-pick-appcompat-1.4.1-5:/layout/select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "com.tron.react-native-wheel-pick-merged_res-21:/layout/abc_activity_chooser_view.xml",
+        "source": "com.tron.react-native-wheel-pick-appcompat-1.4.1-5:/layout/abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "com.tron.react-native-wheel-pick-merged_res-21:/layout/select_dialog_item_material.xml",
+        "source": "com.tron.react-native-wheel-pick-appcompat-1.4.1-5:/layout/select_dialog_item_material.xml"
+    },
+    {
+        "merged": "com.tron.react-native-wheel-pick-merged_res-21:/layout/autofill_inline_suggestion.xml",
+        "source": "com.tron.react-native-wheel-pick-jetified-autofill-1.1.0-1:/layout/autofill_inline_suggestion.xml"
+    },
+    {
+        "merged": "com.tron.react-native-wheel-pick-merged_res-21:/layout/abc_list_menu_item_checkbox.xml",
+        "source": "com.tron.react-native-wheel-pick-appcompat-1.4.1-5:/layout/abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "com.tron.react-native-wheel-pick-merged_res-21:/layout/fps_view.xml",
+        "source": "com.tron.react-native-wheel-pick-jetified-react-android-0.71.7-release-0:/layout/fps_view.xml"
+    },
+    {
+        "merged": "com.tron.react-native-wheel-pick-merged_res-21:/layout/abc_action_bar_title_item.xml",
+        "source": "com.tron.react-native-wheel-pick-appcompat-1.4.1-5:/layout/abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "com.tron.react-native-wheel-pick-merged_res-21:/layout/abc_screen_simple_overlay_action_mode.xml",
+        "source": "com.tron.react-native-wheel-pick-appcompat-1.4.1-5:/layout/abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "com.tron.react-native-wheel-pick-merged_res-21:/layout/abc_list_menu_item_radio.xml",
+        "source": "com.tron.react-native-wheel-pick-appcompat-1.4.1-5:/layout/abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "com.tron.react-native-wheel-pick-merged_res-21:/layout/notification_action.xml",
+        "source": "com.tron.react-native-wheel-pick-core-1.7.0-14:/layout/notification_action.xml"
+    },
+    {
+        "merged": "com.tron.react-native-wheel-pick-merged_res-21:/layout/abc_alert_dialog_title_material.xml",
+        "source": "com.tron.react-native-wheel-pick-appcompat-1.4.1-5:/layout/abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "com.tron.react-native-wheel-pick-merged_res-21:/layout/abc_activity_chooser_view_list_item.xml",
+        "source": "com.tron.react-native-wheel-pick-appcompat-1.4.1-5:/layout/abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "com.tron.react-native-wheel-pick-merged_res-21:/layout/abc_screen_toolbar.xml",
+        "source": "com.tron.react-native-wheel-pick-appcompat-1.4.1-5:/layout/abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "com.tron.react-native-wheel-pick-merged_res-21:/layout/notification_template_part_time.xml",
+        "source": "com.tron.react-native-wheel-pick-core-1.7.0-14:/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "com.tron.react-native-wheel-pick-merged_res-21:/layout/abc_screen_simple.xml",
+        "source": "com.tron.react-native-wheel-pick-appcompat-1.4.1-5:/layout/abc_screen_simple.xml"
+    },
+    {
+        "merged": "com.tron.react-native-wheel-pick-merged_res-21:/layout/abc_screen_content_include.xml",
+        "source": "com.tron.react-native-wheel-pick-appcompat-1.4.1-5:/layout/abc_screen_content_include.xml"
+    },
+    {
+        "merged": "com.tron.react-native-wheel-pick-merged_res-21:/layout/custom_dialog.xml",
+        "source": "com.tron.react-native-wheel-pick-core-1.7.0-14:/layout/custom_dialog.xml"
+    },
+    {
+        "merged": "com.tron.react-native-wheel-pick-merged_res-21:/layout/dev_loading_view.xml",
+        "source": "com.tron.react-native-wheel-pick-jetified-react-android-0.71.7-release-0:/layout/dev_loading_view.xml"
+    },
+    {
+        "merged": "com.tron.react-native-wheel-pick-merged_res-21:/layout/abc_cascading_menu_item_layout.xml",
+        "source": "com.tron.react-native-wheel-pick-appcompat-1.4.1-5:/layout/abc_cascading_menu_item_layout.xml"
+    },
+    {
+        "merged": "com.tron.react-native-wheel-pick-merged_res-21:/layout/abc_list_menu_item_icon.xml",
+        "source": "com.tron.react-native-wheel-pick-appcompat-1.4.1-5:/layout/abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "com.tron.react-native-wheel-pick-merged_res-21:/layout/abc_popup_menu_item_layout.xml",
+        "source": "com.tron.react-native-wheel-pick-appcompat-1.4.1-5:/layout/abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "com.tron.react-native-wheel-pick-merged_res-21:/layout/redbox_item_frame.xml",
+        "source": "com.tron.react-native-wheel-pick-jetified-react-android-0.71.7-release-0:/layout/redbox_item_frame.xml"
+    },
+    {
+        "merged": "com.tron.react-native-wheel-pick-merged_res-21:/layout/abc_action_bar_up_container.xml",
+        "source": "com.tron.react-native-wheel-pick-appcompat-1.4.1-5:/layout/abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "com.tron.react-native-wheel-pick-merged_res-21:/layout/abc_popup_menu_header_item_layout.xml",
+        "source": "com.tron.react-native-wheel-pick-appcompat-1.4.1-5:/layout/abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "com.tron.react-native-wheel-pick-merged_res-21:/layout/abc_action_mode_bar.xml",
+        "source": "com.tron.react-native-wheel-pick-appcompat-1.4.1-5:/layout/abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "com.tron.react-native-wheel-pick-merged_res-21:/layout/abc_action_menu_layout.xml",
+        "source": "com.tron.react-native-wheel-pick-appcompat-1.4.1-5:/layout/abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "com.tron.react-native-wheel-pick-merged_res-21:/layout/abc_search_view.xml",
+        "source": "com.tron.react-native-wheel-pick-appcompat-1.4.1-5:/layout/abc_search_view.xml"
+    }
+]

@@ -1,0 +1,34 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.tron.react-native-wheel-pick-merged_res-21:/values-h720dp-v13/values-h720dp-v13.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\arasi\\.gradle\\caches\\transforms-3\\471be5ea02bb6fe9eb57c35811c15ac7\\transformed\\appcompat-1.4.1\\res\\values-h720dp-v13\\values-h720dp-v13.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "66",
+                        "endOffsets": "117"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "com.tron.react-native-wheel-pick-mergeReleaseResources-19:/values-h720dp-v13/values-h720dp-v13.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\arasi\\.gradle\\caches\\transforms-3\\471be5ea02bb6fe9eb57c35811c15ac7\\transformed\\appcompat-1.4.1\\res\\values-h720dp-v13\\values-h720dp-v13.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "66",
+                        "endOffsets": "117"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.tron.react-native-wheel-pick-merged_res-21:/values-zh/values-zh.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\arasi\\.gradle\\caches\\transforms-3\\810e16d656f7c80396362cd20fdfcede\\transformed\\jetified-WheelPicker-5913fa15fc\\res\\values-zh\\values-zh.xml",
+                    "from": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,89,125",
+                        "endColumns": "33,35,34",
+                        "endOffsets": "84,120,155"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "com.tron.react-native-wheel-pick-mergeReleaseResources-19:/values-zh/values-zh.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\arasi\\.gradle\\caches\\transforms-3\\810e16d656f7c80396362cd20fdfcede\\transformed\\jetified-WheelPicker-5913fa15fc\\res\\values-zh\\values-zh.xml",
+                    "from": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,89,125",
+                        "endColumns": "33,35,34",
+                        "endOffsets": "84,120,155"
+                    }
+                }
+            ]
+        }
+    ]
+}
