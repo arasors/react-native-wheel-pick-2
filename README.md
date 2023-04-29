@@ -41,7 +41,8 @@ import { Picker, DatePicker } from 'react-native-wheel-pick-2';
 
 // use Picker
 <Picker
-  style={{ backgroundColor: 'white', width: 300, height: 215 }}
+  style={{ backgroundColor: '#333', width: 300, height: 215 }}
+  textColor={"#f1f1f1"}
   selectedValue='item4'
   pickerData={['item1', 'item2', 'item3', 'item4', 'item5', 'item6', 'item7']}
   onValueChange={value => { console.log(value) }}
@@ -123,7 +124,29 @@ import { Picker, DatePicker } from 'react-native-wheel-pick-2';
 />
 ```
 ## Release Note
-
-
 [Android]
 - Update sdk support for SDK Version 33 (Google Play need sdk version 30+)
+
+
+### PROPS
+
+| Prop          | Type                 | Default | Description                                           |
+|---------------|----------------------|---------|-------------------------------------------------------|
+| date          | `instanceOf(Date)`   |         | The initial date to be displayed.                     |
+| maximumDate   | `instanceOf(Date)`   |         | The maximum date that can be selected.                |
+| minimumDate   | `instanceOf(Date)`   |         | The minimum date that can be selected.                |
+| mode          | `oneOf(['date', 'time', 'datetime'])` | 'date'  | The display mode for the date picker.                 |
+| onDateChange  | `func.isRequired`    |         | Callback function to be called when the date changes. |
+
+
+
+
+| Prop          | Type                 | Default   | Description                                           |
+|---------------|----------------------|-----------|-------------------------------------------------------|
+| textColor     | `string`             | '#333'    | The color of the text in the picker.                  |
+| textSize      | `number`             | 26        | The size of the text in the picker.                   |
+| itemStyle     | `object`             | null      | The style for the picker items.                       |
+| onValueChange | `func.isRequired`    |           | Callback function to be called when the value changes.|
+| pickerData    | `array.isRequired`   |           | The data for the picker items.                        |
+| style         | `object`             | {}        | The style for the picker container.                   |
+| selectedValue | `any`                | ''        | The initially selected value in the picker.           |
